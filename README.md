@@ -18,7 +18,8 @@ Fast Connected Component Labeling (Connected Component Analysis) based on Lifeng
 ===========================================
              Configuration
 ===========================================
-     This code is linked with opencv. please install opencv and setup the paths before including the code. The program needs to link with opencv libralies; opencv_core, opencv_imgproc, opencv_highgui
+     This code is linked with opencv. please install opencv and setup the paths before including the code. 
+     The program needs to link with opencv libralies; opencv_core, opencv_imgproc, opencv_highgui
      
      
      
